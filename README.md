@@ -1,2 +1,2 @@
 # Graph-BFS-DFS
-# Fraph data structure and BFS, DFS Algorithm
+# Graph data structure and BFS, DFS Algorithm
